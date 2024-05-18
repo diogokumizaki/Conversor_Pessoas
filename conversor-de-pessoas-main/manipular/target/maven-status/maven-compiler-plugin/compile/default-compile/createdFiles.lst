@@ -1,0 +1,8 @@
+br\unipar\conversorpessoa\manipulararquivos\TelaManipulacaoArquivo$1.class
+br\unipar\conversorpessoa\connection\EntityManagerUtil.class
+br\unipar\conversorpessoa\manipulararquivos\Main.class
+br\unipar\conversorpessoa\models\Pessoa.class
+br\unipar\conversorpessoa\interfaces\PessoaDAO.class
+br\unipar\conversorpessoa\manipulararquivos\TelaManipulacaoArquivo.class
+br\unipar\conversorpessoa\manipulararquivos\TelaManipulacaoArquivo$2.class
+br\unipar\conversorpessoa\interfaces\PessoaDAOImpl.class
